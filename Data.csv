@@ -1,0 +1,12 @@
+State,Age,Salary,Purchased
+Mumbai,44,72000,No
+Bangalore,27,45000,Yes
+Chennai,35,53000,Yes
+Mumbai,23,45767,Yes
+Bangalore,66,,No
+Chennai,48,43000,Yes
+Mumbai,,50000,No
+Bangalore,53,54300,No
+Chennai,23,56000,Yes
+Mumbai,67,40000,Yes
+,,,
